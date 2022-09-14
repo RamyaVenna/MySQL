@@ -58,7 +58,7 @@ when 'Female' then 'F'
 else 'other'
 end as Gender 
 from inflation_data_2021;
-//
+
 -- IF ELSE clause
 -- This is generally used in stored procedures that implement basic conditional constuct in MySQL. 
 
